@@ -14,7 +14,7 @@
 
 
 
-##### 中華電信｜5G企業專網 <br>
+##### 中華電信｜5G企業專網 - 企業應用實例篇 <br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=sDtmT4NGvFc" target="_blank"><img src="http://img.youtube.com/vi/sDtmT4NGvFc/0.jpg" 
-alt="中華電信｜5G企業專網" width="400" height="250" border="10" /></a>
+alt="中華電信｜5G企業專網 - 企業應用實例篇" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
