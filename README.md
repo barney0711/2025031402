@@ -1,6 +1,6 @@
 # 2025031402
 
-<img src="exported_qrcode_image_600.png" width="200" height="200">
+<img src="README_600.png" width="200" height="200">
 
 # 11302
 智慧城市導論
