@@ -1,9 +1,9 @@
-# 2025031402
+# 自我介紹QRcode
 
 <img src="README_600.png" width="200" height="200">
 
-# 11302
-智慧城市導論
+# 簡歷
+
 |項次 | 項目 |內容 |
 |---:|------|------|
 |1 | 圖片 | <img src="西裝公主抱.jpg" width="100" Height="150" />
@@ -12,24 +12,32 @@
 |3 | 任職公司 | 潤泰精密材料(股)公司 |
 
 
+<details>
+<summary>
+  
+## 我最喜愛的一首歌
+
+</summary>
 
 
-##### 中華電信｜5G企業專網 - 企業應用實例篇 <br>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=sDtmT4NGvFc" target="_blank"><img src="http://img.youtube.com/vi/sDtmT4NGvFc/0.jpg" 
-alt="中華電信｜5G企業專網 - 企業應用實例篇" width="400" height="250" border="10" /></a>
+楊培安-我相信 <br>
+這首歌能在隨時隨地帶給我滿滿的動力
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=V5b-kzEbwA8" target="_blank"><img src="http://img.youtube.com/vi/V5b-kzEbwA8/0.jpg" 
+alt="楊培安 我相信" width="450" height="300" border="10" /></a>
 <br>影片取自 youtube
 
-
+</details>
 <details>
 <summary>
 
-## 台北智慧城市展
+## 平時興趣
 
 </summary>
-(一)、 展出日期：2025年3月18日（二）至3月21日（五），共4天<br>
-(二)、 展出地點：台北南港展覽館2館（台北市南港區經貿二路2號）<br>
-(三)、 參展區域：<br>
+<br>
   
-|物聯網應用(5G AIoT)	| 智慧交通 | 智慧治理 | 智慧安防 |能源轉型 |
-|-----------|---------|----------|---------|---------|
-|智慧醫療            | 智慧建築 | 智慧教育 |  AI+專區 | 其他 |
+|室內活動	| 聽音樂、唱歌、看影片、讀小說 | 
+|-----------|------------|
+|戶外活動 | 逛展覽、打羽毛球|
+</details>
